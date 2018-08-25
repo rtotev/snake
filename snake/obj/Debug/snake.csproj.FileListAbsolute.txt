@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2015\Projects\snake\snake\bin\Debug\snake.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\snake\snake\bin\Debug\snake.exe
+c:\users\rosen\documents\visual studio 2015\Projects\snake\snake\bin\Debug\snake.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\snake\snake\obj\Debug\snake.exe
+c:\users\rosen\documents\visual studio 2015\Projects\snake\snake\obj\Debug\snake.pdb
